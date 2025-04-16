@@ -2,13 +2,13 @@
 Limitless application is E-commerce app that was implemented through Eva Pharma hackathon (Eva Hackathon 2022)
 
 # Tools Used:
--XML
--Coroutines
--Dagger & Hilt
--Retrofit
--MVVM Pattern
--Solid Principles
--Google Maps
+XML
+Coroutines
+Dagger & Hilt
+Retrofit
+MVVM Pattern
+Solid Principles
+Google Maps
 
 ## Screentshots
 <p float="left">
