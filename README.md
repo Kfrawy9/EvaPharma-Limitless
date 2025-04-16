@@ -3,11 +3,17 @@ Limitless application is E-commerce app that was implemented through Eva Pharma 
 
 # Tools Used:
 XML
+
 Coroutines
+
 Dagger & Hilt
+
 Retrofit
+
 MVVM Pattern
+
 Solid Principles
+
 Google Maps
 
 ## Screentshots
